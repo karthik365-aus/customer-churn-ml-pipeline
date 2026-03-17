@@ -114,6 +114,12 @@ Customer churn is strongly associated with:
 
 Machine learning models can help telecom companies identify high-risk customers and target retention strategies.
 
+## Example Visualization
+
+Below shows the distribution of churn vs non-churn customers in the dataset.
+
+![Churn Distribution](figures/churn_distribution.png)
+
 ---
 
 ## Author
