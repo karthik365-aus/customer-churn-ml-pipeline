@@ -4,6 +4,16 @@
 Customer churn is a major challenge for banks and telecom companies. 
 Predicting which customers are likely to leave enables targeted retention strategies.
 
+## Dataset Source
+
+Dataset: Telco Customer Churn Dataset
+
+Source:
+https://www.kaggle.com/blastchar/telco-customer-churn
+
+A sample dataset is included in the `data/` folder for reproducibility.
+
+
 ## Dataset
 Telco Customer Churn Dataset
 
